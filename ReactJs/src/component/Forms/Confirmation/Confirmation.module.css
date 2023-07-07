@@ -1,0 +1,38 @@
+.confirmation{
+    width:100vw ;
+    height:calc(100vw - 40vw) ;
+}
+.background{
+    width: 100%;
+    height: 100%;
+    background-image: url("../../../images/ecommerce-cross-sell-up-sell.jpeg");
+    background-size: cover;
+}
+.groupe{
+    margin-left: 50%;
+    padding-top: 40px;
+    transform: translate(-50%,15%);
+    width: 60vw;
+    height: 30vw;
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 40px;
+    color: black;
+}
+.groupe form input{
+    width: 20vw;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.grpupe form input:focus{
+    border: 1px solid brown;
+}
+.groupe form button{
+    width: 10vw;
+    margin-top: 1vw;
+}
+.error{
+    color: red;
+}

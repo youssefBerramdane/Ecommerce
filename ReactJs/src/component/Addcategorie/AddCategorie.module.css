@@ -1,0 +1,25 @@
+.form{
+    width: 70%;
+    margin: auto;
+    margin-top: 10%;
+    text-align: end;
+}
+.form div{
+    text-align: start;
+    margin-bottom: 10%;
+}
+.form input{
+    border-color: #777;
+    border-radius: 10px;
+}
+.form label{
+    color: black;
+    font-weight: bold;
+}
+.form button{
+    background-color: green;
+    border-radius: 10px;
+    width: 14%;
+    color: white;
+    font-weight: bold;
+}

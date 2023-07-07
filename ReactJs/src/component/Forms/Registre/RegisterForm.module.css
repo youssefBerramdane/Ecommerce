@@ -1,0 +1,11 @@
+.inputerror{
+    border: 1px solid red;
+    background-color: rgb(238, 155, 155);
+}
+
+.form-outline p{
+    color: red;
+ }
+.loader{
+    margin: auto;
+}
